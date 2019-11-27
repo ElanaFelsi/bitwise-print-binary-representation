@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(bitwise_print_binary_representation_ElanaFelsi C)
+
+set(CMAKE_C_STANDARD 90)
+
+add_executable(bitwise_print_binary_representation_ElanaFelsi main.c)

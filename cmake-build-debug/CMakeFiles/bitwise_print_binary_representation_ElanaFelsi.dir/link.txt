@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/bitwise_print_binary_representation_ElanaFelsi.dir/main.c.o  -o bitwise_print_binary_representation_ElanaFelsi 
